@@ -33,7 +33,7 @@ Analysis of Spotify Songs Web App
     - 3 different histograms are drawn to show the spread of the popularity scores
     - A small summary table was rendered to show the summary statistics 
     
-Special Features:
+    Special Features:
     - An interactive slider input controls the number of bins of the displayed histogram.
     - Summary table displaying summary statistics of the 3 data sets.
 
